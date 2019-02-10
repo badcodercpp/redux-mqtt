@@ -1,0 +1,24 @@
+{
+  "name": "redux-mqtt",
+  "version": "1.0.0",
+  "description": "use this library to store mqtt client object in redux store ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badcodercpp/redux-mqtt.git"
+  },
+  "keywords": [
+    "redux",
+    "mqtt",
+    "redux-mqtt"
+  ],
+  "author": "badcoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/badcodercpp/redux-mqtt/issues"
+  },
+  "homepage": "https://github.com/badcodercpp/redux-mqtt#readme"
+}
