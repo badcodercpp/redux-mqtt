@@ -11,4 +11,4 @@ const  mqttMiddleware = (client) => {
     };
 }
 
-export default mqtt;
+export default mqttMiddleware;
